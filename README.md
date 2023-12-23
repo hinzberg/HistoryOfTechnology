@@ -1,2 +1,1 @@
-# HistoryOfTechnology
-The History Of Technology - What happened when?
+#The History Of Technology - What happened when?
